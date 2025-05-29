@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #e0f7fa, #ffffff);
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #00695c;
+    margin-bottom: 30px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.tabuada {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    width: 180px;
+    transition: transform 0.2s;
+}
+
+.tabuada:hover {
+    transform: scale(1.05);
+}
+
+.tabuada h2 {
+    text-align: center;
+    color: #00796b;
+    margin-bottom: 10px;
+}
+
+.tabuada p {
+    text-align: center;
+    margin: 4px 0;
+    color: #333333;
+}
