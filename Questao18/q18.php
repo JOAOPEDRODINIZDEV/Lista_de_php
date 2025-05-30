@@ -1,5 +1,5 @@
 <?php
-$cor = "Laranja"; // Altere para "Vermelho", "Azul", "Verde" ou outra cor
+$cor = "Laranja"; 
 
 if($cor == "Vermelho" || $cor == "Azul" || $cor == "Verde"){
     echo "Você escolheu a cor $cor para o tema.";

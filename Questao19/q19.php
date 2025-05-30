@@ -1,5 +1,5 @@
 <?php
-$cargo = "Desenvolvedor"; // Altere para "Designer" ou "Gerente" para testar
+$cargo = "Desenvolvedor";
 
 if($cargo == "Desenvolvedor"){
     $salario = 5000;

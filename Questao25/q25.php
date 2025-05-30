@@ -9,9 +9,9 @@ echo "<tr>
       </tr>";
 
 for($i = 1; $i <= 10; $i++){
-    $matricula = "202500" . $i;  // Simula número de matrícula
-    $nome = "Aluno " . $i . " Silva";  // Simula nome
-    $nota = rand(0, 10);  // Nota aleatória entre 0 e 10
+    $matricula = "202500" . $i;  
+    $nome = "Aluno " . $i . " Silva"; 
+    $nota = rand(0, 10);
 
     echo "<tr>
             <td>$matricula</td>

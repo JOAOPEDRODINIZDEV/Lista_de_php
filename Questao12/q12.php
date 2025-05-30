@@ -1,5 +1,5 @@
 <?php
-$temperatura = -5; // Você pode mudar o valor para testar
+$temperatura = -5; 
 
 if($temperatura > 0){
     echo "Positiva";

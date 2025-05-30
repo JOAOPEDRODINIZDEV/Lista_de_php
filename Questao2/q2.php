@@ -12,10 +12,8 @@
 </div>
 
 <?php
-// Variável para representar a quantidade em estoque de um produto
 $quantidadeEstoque = 50;
 
-// Exibe a quantidade atual de itens
 echo "Quantidade atual em estoque: $quantidadeEstoque itens.";
 ?>
 

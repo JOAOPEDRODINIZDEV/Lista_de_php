@@ -1,8 +1,7 @@
 <?php
 echo "<h3>Ciclo de Produção:</h3>";
 
-// Simula produções que irão aumentar até atingir o mínimo de 5
-$producoes = [1, 2, 3, 4, 5];  // Simulação dos ciclos de produção
+$producoes = [1, 2, 3, 4, 5]; 
 
 $index = 0;
 $quantidade = 0;

@@ -1,5 +1,5 @@
 <?php
-$estado_civil = "C"; // Altere para "S", "D" ou "O" para testar
+$estado_civil = "C"; 
 
 if($estado_civil == "C"){
     echo "Casado/a";

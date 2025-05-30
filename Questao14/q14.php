@@ -1,5 +1,5 @@
 <?php
-$dia = 3; // Mude o número de 1 a 7 para testar
+$dia = 3; 
 
 switch($dia){
     case 1:
